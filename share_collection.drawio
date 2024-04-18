@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T09:04:16.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ua8xONUh59V96GQi6SSU" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T09:06:31.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ziA4NK6_YreUcmneFAKa" version="24.2.5" type="github">
   <diagram name="collection" id="N_CIKplRmD34ISpjQVyY">
     <mxGraphModel dx="1434" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8qF9MvdjFyCx3xQRs_l2-4" value="internal ความลับ เงินให้ใจ" style="rounded=1;arcSize=10;dashed=1;strokeColor=#ff0000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;textShadow=0;align=left;glass=0;fontColor=#FF9999;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="8qF9MvdjFyCx3xQRs_l2-4" value="internal ความลับ * เงินให้ใจ ห้ามแก้ไข *" style="rounded=1;arcSize=10;dashed=1;strokeColor=#ff0000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;textShadow=0;align=center;glass=0;fontColor=#FF0000;verticalAlign=top;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="100" y="60" width="280" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Nf1m1TZT0g2i1Bwr5nnO-2" value="LMS-prod( standby)&lt;div&gt;192.168.14.39&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
