@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T08:23:55.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="74MAgycH4iHwnk8DZCH0" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T08:26:56.248Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Vh2KwljXJlRE8qoEI_Lr" version="24.2.5" type="github">
   <diagram name="collection" id="N_CIKplRmD34ISpjQVyY">
     <mxGraphModel dx="1434" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,6 +42,11 @@
         </mxCell>
         <mxCell id="8qF9MvdjFyCx3xQRs_l2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;" edge="1" parent="1" source="8qF9MvdjFyCx3xQRs_l2-1" target="Nf1m1TZT0g2i1Bwr5nnO-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8qF9MvdjFyCx3xQRs_l2-5" value="data as of 18042024 15:30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8qF9MvdjFyCx3xQRs_l2-3">
+          <mxGeometry x="-0.1854" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="8qF9MvdjFyCx3xQRs_l2-4" value="internal ความลับ เงินให้ใจ" style="rounded=1;arcSize=10;dashed=1;strokeColor=#ff0000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;textShadow=0;align=left;glass=0;fontColor=#FF9999;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="120" y="70" width="280" height="300" as="geometry" />
