@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T09:47:46.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KnQJEiWea1_I5x6aJ3gm" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T09:49:07.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-ZQCTty7wHcXHIONuWBL" version="24.2.5" type="github">
   <diagram name="collection" id="N_CIKplRmD34ISpjQVyY">
-    <mxGraphModel dx="819" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1206" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,13 +28,13 @@
           <mxGeometry x="270" y="-160" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="8hwzGIo9Otc3_Tqw6QN_-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Tick_Mark_Dark-128.png" parent="1" vertex="1">
-          <mxGeometry x="707.5" y="-59" width="48" height="48" as="geometry" />
+          <mxGeometry x="707.5" y="-50" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="8hwzGIo9Otc3_Tqw6QN_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="Nf1m1TZT0g2i1Bwr5nnO-31" target="Nf1m1TZT0g2i1Bwr5nnO-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8hwzGIo9Otc3_Tqw6QN_-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Tick_Mark_Dark-128.png" parent="1" vertex="1">
-          <mxGeometry x="707.5" y="127" width="48" height="48" as="geometry" />
+          <mxGeometry x="709" y="136" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="0of4-0cHT8gc_cpD0exL-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="0of4-0cHT8gc_cpD0exL-1" target="0of4-0cHT8gc_cpD0exL-15">
           <mxGeometry relative="1" as="geometry" />
@@ -116,7 +116,7 @@
         <mxCell id="0of4-0cHT8gc_cpD0exL-63" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Tick_Mark_Dark-128.png" vertex="1" parent="1">
           <mxGeometry x="210" y="237" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8hwzGIo9Otc3_Tqw6QN_-25" value="manual job (ให้ request)" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/question-128.png" parent="1" vertex="1">
+        <mxCell id="8hwzGIo9Otc3_Tqw6QN_-25" value="manual job (ให้ request ขอ)" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/question-128.png" parent="1" vertex="1">
           <mxGeometry x="470" y="201" width="54" height="54" as="geometry" />
         </mxCell>
         <mxCell id="0of4-0cHT8gc_cpD0exL-75" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;ถ้า complete ให้ run job sync&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.reload;" vertex="1" parent="1">
