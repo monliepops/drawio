@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-04-19T09:57:05.339Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="d7VknzwBckUDAQ5fK_j3" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-19T09:57:14.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CujkRs5gcGo1m6JoFgfI" version="24.2.5" type="github">
   <diagram name="collection" id="N_CIKplRmD34ISpjQVyY">
     <mxGraphModel dx="1195" dy="1072" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8qF9MvdjFyCx3xQRs_l2-4" value="internal ความลับ  *" style="rounded=1;arcSize=10;dashed=1;strokeColor=#ff0000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;textShadow=0;align=center;glass=0;fontColor=#FF0000;verticalAlign=top;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="115" y="80" width="285" height="380" as="geometry" />
+          <mxGeometry x="115" y="80" width="275" height="330" as="geometry" />
         </mxCell>
         <mxCell id="0of4-0cHT8gc_cpD0exL-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;" edge="1" parent="1" source="Nf1m1TZT0g2i1Bwr5nnO-6" target="0of4-0cHT8gc_cpD0exL-40">
           <mxGeometry relative="1" as="geometry" />
