@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T03:11:06.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="AiCuJdiZo-UaKHg--3A8" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T04:12:59.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="5E816shx4zsN6gjBoZLC" version="24.2.5" type="github">
   <diagram name="collection" id="N_CIKplRmD34ISpjQVyY">
-    <mxGraphModel dx="1050" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -112,7 +112,7 @@
         <mxCell id="0of4-0cHT8gc_cpD0exL-63" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/flat-actions-icons-9/792/Tick_Mark_Dark-128.png" parent="1" vertex="1">
           <mxGeometry x="210" y="237" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8hwzGIo9Otc3_Tqw6QN_-25" value="1.manual job (ให้ request ขอ)" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/question-128.png" parent="1" vertex="1">
+        <mxCell id="8hwzGIo9Otc3_Tqw6QN_-25" value="1.manual job (ให้ request ขอ)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ฮ่องเต้&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-5/24/question-128.png" parent="1" vertex="1">
           <mxGeometry x="470" y="201" width="54" height="54" as="geometry" />
         </mxCell>
         <mxCell id="0of4-0cHT8gc_cpD0exL-79" value="done" style="endArrow=none;html=1;rounded=0;verticalAlign=top;" parent="1" edge="1">
@@ -172,7 +172,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0of4-0cHT8gc_cpD0exL-75" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;2.ถ้า complete ให้ run job sync&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.reload;" parent="1" vertex="1">
+        <mxCell id="0of4-0cHT8gc_cpD0exL-75" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;2.ถ้า complete ให้ run job sync มนชัย&amp;nbsp;&lt;/span&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.reload;" parent="1" vertex="1">
           <mxGeometry x="628" y="183.87" width="24" height="27" as="geometry" />
         </mxCell>
       </root>
