@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T04:11:54.393Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="6m3nkGUGzf9AFmxAG9VO" version="24.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-14T04:14:37.800Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="rFMXDtg3LJo3weqm6keO" version="24.4.0" type="github" pages="4">
   <diagram name="collection" id="N_CIKplRmD34ISpjQVyY">
     <mxGraphModel dx="948" dy="1202" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -152,16 +152,16 @@
           <mxGeometry x="330" y="319.87" width="64.78" height="60.25" as="geometry" />
         </mxCell>
         <mxCell id="-hMwVcnBYIY4lJvDCR1y-1" value="Availability Zone 2&amp;nbsp;" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="88" width="176" height="170" as="geometry" />
+          <mxGeometry x="150" y="64" width="190" height="171" as="geometry" />
         </mxCell>
-        <mxCell id="-hMwVcnBYIY4lJvDCR1y-4" value="standby" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance_standby_multi_az;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="-hMwVcnBYIY4lJvDCR1y-4" value="standby failover" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance_standby_multi_az;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="180" y="140" width="49.5" height="66" as="geometry" />
         </mxCell>
         <mxCell id="-hMwVcnBYIY4lJvDCR1y-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xOZM63LVpn3O6pKinXcv-1" target="-hMwVcnBYIY4lJvDCR1y-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-hMwVcnBYIY4lJvDCR1y-8" value="Availability Zone 1" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="88" width="168" height="352" as="geometry" />
+          <mxGeometry x="-29" y="61" width="168" height="352" as="geometry" />
         </mxCell>
         <mxCell id="AnvDPfyajkTBSdrc99Wi-2" value="192.168.22.85 port 5432 ssl" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="-0.0023" relative="1" as="geometry">
@@ -181,14 +181,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CsCNEgXdZVVj1qXKGzPc-1" value="read replica" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance_read_replica;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="CsCNEgXdZVVj1qXKGzPc-1" value="read replica &amp;nbsp;รองรับ Read &amp;nbsp;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance_read_replica;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="555" y="110" width="49.5" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="CsCNEgXdZVVj1qXKGzPc-2" value="primary" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="CsCNEgXdZVVj1qXKGzPc-2" value="primary ไว้ support production" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="389" y="110" width="49.5" height="66" as="geometry" />
         </mxCell>
         <mxCell id="CsCNEgXdZVVj1qXKGzPc-8" value="Availability Zone 2&amp;nbsp;" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="270" width="240.5" height="170" as="geometry" />
+          <mxGeometry x="310" y="269" width="279" height="180" as="geometry" />
         </mxCell>
         <mxCell id="CsCNEgXdZVVj1qXKGzPc-9" value="dashboard" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.nsx_dashboard;" parent="1" vertex="1">
           <mxGeometry x="840" y="112.87" width="64.78" height="60.25" as="geometry" />
@@ -199,16 +199,16 @@
         <mxCell id="CsCNEgXdZVVj1qXKGzPc-15" value="Read/ Write" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CsCNEgXdZVVj1qXKGzPc-13" target="CsCNEgXdZVVj1qXKGzPc-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UnWtX3Yu5xu4jcI2lnSg-2" value="standby" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance_standby_multi_az;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="389" y="300" width="49.5" height="66" as="geometry" />
+        <mxCell id="UnWtX3Yu5xu4jcI2lnSg-2" value="standby ไว้ &amp;nbsp;failover data center" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance_standby_multi_az;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
+          <mxGeometry x="424" y="311" width="49.5" height="66" as="geometry" />
         </mxCell>
         <mxCell id="UnWtX3Yu5xu4jcI2lnSg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CsCNEgXdZVVj1qXKGzPc-2" target="CsCNEgXdZVVj1qXKGzPc-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UnWtX3Yu5xu4jcI2lnSg-6" value="Availability Zone 1&amp;nbsp;" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="64" width="351" height="166" as="geometry" />
+          <mxGeometry x="312" y="57" width="372" height="179" as="geometry" />
         </mxCell>
-        <mxCell id="y8VJ3rf6lLGrPUPeV-LR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CsCNEgXdZVVj1qXKGzPc-9" target="CsCNEgXdZVVj1qXKGzPc-1">
+        <mxCell id="y8VJ3rf6lLGrPUPeV-LR-2" value="Read only" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CsCNEgXdZVVj1qXKGzPc-9" target="CsCNEgXdZVVj1qXKGzPc-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
