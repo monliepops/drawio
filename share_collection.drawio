@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T04:30:14.802Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="w0KtxucR-PosoWxKZD7G" version="24.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-14T04:30:48.827Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="AtK4vyhpLM_Wxc-GAtbH" version="24.4.0" type="github" pages="4">
   <diagram name="collection" id="N_CIKplRmD34ISpjQVyY">
     <mxGraphModel dx="948" dy="1202" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -302,7 +302,7 @@
           <mxGeometry x="389" y="110" width="49.5" height="66" as="geometry" />
         </mxCell>
         <mxCell id="CsCNEgXdZVVj1qXKGzPc-8" value="Availability Zone 2&amp;nbsp;" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="289" y="279" width="378" height="180" as="geometry" />
+          <mxGeometry x="287" y="281" width="378" height="180" as="geometry" />
         </mxCell>
         <mxCell id="CsCNEgXdZVVj1qXKGzPc-9" value="dashboard" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.nsx_dashboard;" parent="1" vertex="1">
           <mxGeometry x="840" y="112.87" width="64.78" height="60.25" as="geometry" />
