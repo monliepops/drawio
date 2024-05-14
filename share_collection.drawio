@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T04:28:07.812Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="_9rVS2H01rMoyPD-g3S5" version="24.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-14T04:29:58.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="Dqwf3aq3KXURtRHOoocW" version="24.4.0" type="github" pages="4">
   <diagram name="collection" id="N_CIKplRmD34ISpjQVyY">
     <mxGraphModel dx="948" dy="1202" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -168,7 +168,7 @@
         <mxCell id="-hMwVcnBYIY4lJvDCR1y-8" value="Availability Zone 1" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-27" y="78" width="397" height="167.12" as="geometry" />
         </mxCell>
-        <mxCell id="AnvDPfyajkTBSdrc99Wi-2" value="192.168.22.85 port 5432 ssl / read only" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+        <mxCell id="AnvDPfyajkTBSdrc99Wi-2" value="192.168.22.85 port 5432 ssl / Read only" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry x="-0.0023" relative="1" as="geometry">
             <mxPoint x="559.62" y="172.5" as="sourcePoint" />
             <mxPoint x="275.5" y="172.5" as="targetPoint" />
@@ -322,8 +322,18 @@
         <mxCell id="UnWtX3Yu5xu4jcI2lnSg-6" value="Availability Zone 1&amp;nbsp;" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="293" y="57" width="372" height="179" as="geometry" />
         </mxCell>
-        <mxCell id="y8VJ3rf6lLGrPUPeV-LR-2" value="Read only" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CsCNEgXdZVVj1qXKGzPc-9" target="CsCNEgXdZVVj1qXKGzPc-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="y8VJ3rf6lLGrPUPeV-LR-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CsCNEgXdZVVj1qXKGzPc-9" target="CsCNEgXdZVVj1qXKGzPc-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="789" y="143" />
+              <mxPoint x="789" y="143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HgHwnUsOmQSU58sJ2YLw-1" value="&amp;nbsp;IP standby / Read only" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="y8VJ3rf6lLGrPUPeV-LR-2">
+          <mxGeometry x="0.2398" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AA_kgyFvI2PWMQS-Hviv-2" value="async" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CsCNEgXdZVVj1qXKGzPc-2" target="UnWtX3Yu5xu4jcI2lnSg-2">
           <mxGeometry relative="1" as="geometry" />
