@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T10:54:10.246Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="3qRxTiBGcpk2ErcX6bFn" version="24.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-15T10:56:29.728Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="rXIt9Vh5zoU8y9dWzZTU" version="24.4.0" type="github" pages="4">
   <diagram name="collection" id="N_CIKplRmD34ISpjQVyY">
     <mxGraphModel dx="1026" dy="1202" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -176,7 +176,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CAkqamon0RX8C65m8_k8-1" value="1. 1 instance มี 1database มี 10 schemas&lt;div&gt;2.Blockfint vendor กำลังจัดทำ&amp;nbsp;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" parent="1" vertex="1">
-          <mxGeometry x="145" y="381" width="295" height="148" as="geometry" />
+          <mxGeometry x="126" y="383" width="295" height="148" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
