@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T10:56:29.728Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="rXIt9Vh5zoU8y9dWzZTU" version="24.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-15T14:10:56.299Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" etag="-xiAtb34uHUHqHSEgaWW" version="24.4.0" type="github" pages="4">
   <diagram name="collection" id="N_CIKplRmD34ISpjQVyY">
-    <mxGraphModel dx="1026" dy="1202" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="1063" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,7 +123,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5FIG6E48aMR_5kqDz4uR" name="RDS LOS">
-    <mxGraphModel dx="1426" dy="802" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -182,7 +182,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6AyKOGvewQ0hH869rFZE" name="VM LMS">
-    <mxGraphModel dx="1026" dy="1202" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="1063" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -269,9 +269,6 @@
         <mxCell id="-rX_uKBOdOB6NbT8Dn5--15" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="152.75" y="275" width="180.25" height="159" as="geometry" />
         </mxCell>
-        <mxCell id="27G1WuRLpw4IdMH6c69W-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="-rX_uKBOdOB6NbT8Dn5--15" source="TRTql8NFTH1n02r-DqWd-6" target="ZZFeChRulTl5-MOmVuix-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TRTql8NFTH1n02r-DqWd-6" value="ip ,restart" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds_db_instance_read_replica;fillColor=#2E73B8;gradientColor=none;" parent="-rX_uKBOdOB6NbT8Dn5--15" vertex="1">
           <mxGeometry x="93.25" y="5" width="49.5" height="66" as="geometry" />
         </mxCell>
@@ -294,7 +291,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wel1MDna6X4jdCrsyKMo" name="Primary,Read replca,Standby">
-    <mxGraphModel dx="1026" dy="802" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -333,7 +330,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HgHwnUsOmQSU58sJ2YLw-1" value="&amp;nbsp;IP standby / Read only" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="y8VJ3rf6lLGrPUPeV-LR-2" vertex="1" connectable="0">
+        <mxCell id="HgHwnUsOmQSU58sJ2YLw-1" value="&amp;nbsp;IP read replica / Read only" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="y8VJ3rf6lLGrPUPeV-LR-2" vertex="1" connectable="0">
           <mxGeometry x="0.2398" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
