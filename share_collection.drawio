@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T06:51:31.039Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="7CCc0Xp9Qi1OZ-zDpXZL" version="24.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-05-24T07:20:07.532Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="vmQ8LOX2gVOmOXwtm2Zw" version="24.4.6" type="github" pages="5">
   <diagram name="collection" id="N_CIKplRmD34ISpjQVyY" />
   <diagram id="5FIG6E48aMR_5kqDz4uR" name="RDS LOS">
     <mxGraphModel dx="1426" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
@@ -220,7 +220,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pgA0vAKyYvYvWTymH-7b" name="Page-5">
-    <mxGraphModel dx="1238" dy="1136" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1227" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -341,16 +341,16 @@
           <mxGeometry x="302" y="852" width="302" height="162" as="geometry" />
         </mxCell>
         <mxCell id="M2zra9SQgV3S4SkvVl-d-52" value="create role read&lt;div&gt;grant select on tab to role_read;&amp;nbsp;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="21" y="654" width="318" height="36" as="geometry" />
+          <mxGeometry x="-110" y="623" width="318" height="36" as="geometry" />
         </mxCell>
         <mxCell id="M2zra9SQgV3S4SkvVl-d-53" value="" style="sketch=0;outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.role;strokeColor=#00CC00;gradientColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-53" y="640" width="60" height="60" as="geometry" />
+          <mxGeometry x="-184" y="609" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M2zra9SQgV3S4SkvVl-d-55" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#FFB570;fillColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.role;" vertex="1" parent="1">
-          <mxGeometry x="-55" y="693" width="60" height="60" as="geometry" />
+          <mxGeometry x="-186" y="662" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M2zra9SQgV3S4SkvVl-d-56" value="create role write&lt;div&gt;grant select on tab to role_write;&amp;nbsp;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="21" y="705" width="318" height="36" as="geometry" />
+          <mxGeometry x="-110" y="674" width="318" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
