@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T07:37:45.863Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="3cM-uMPg0dDJF5xaZ9c_" version="24.4.6" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-05-24T07:44:34.705Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="9dSsF9BRsDhp9s9_Takm" version="24.4.6" type="github" pages="6">
   <diagram name="collection" id="N_CIKplRmD34ISpjQVyY" />
   <diagram id="5FIG6E48aMR_5kqDz4uR" name="RDS LOS">
     <mxGraphModel dx="1426" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
@@ -239,8 +239,8 @@
         <mxCell id="M2zra9SQgV3S4SkvVl-d-5" value="user reader many" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-65" y="170" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="M2zra9SQgV3S4SkvVl-d-6" value="predefine" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#DD344C;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.role;" vertex="1" parent="1">
-          <mxGeometry x="170" y="2" width="53.18" height="30" as="geometry" />
+        <mxCell id="M2zra9SQgV3S4SkvVl-d-6" value="predefine" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#CC0000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.role;" vertex="1" parent="1">
+          <mxGeometry x="154.82" y="-23" width="53.18" height="30" as="geometry" />
         </mxCell>
         <mxCell id="M2zra9SQgV3S4SkvVl-d-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="M2zra9SQgV3S4SkvVl-d-7" target="M2zra9SQgV3S4SkvVl-d-11">
           <mxGeometry relative="1" as="geometry" />
@@ -265,7 +265,8 @@
             <mxPoint x="724" y="167" as="targetPoint" />
             <Array as="points">
               <mxPoint x="363" y="75" />
-              <mxPoint x="363" y="73" />
+              <mxPoint x="363" y="77" />
+              <mxPoint x="724" y="77" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -273,10 +274,10 @@
           <mxGeometry x="-90" y="55" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="M2zra9SQgV3S4SkvVl-d-24" value="read&amp;nbsp;" style="sketch=0;outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.role;strokeColor=#00CC00;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="251" y="-25" width="60" height="60" as="geometry" />
+          <mxGeometry x="219" y="-41" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M2zra9SQgV3S4SkvVl-d-25" value="write" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#FFB570;fillColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.role;" vertex="1" parent="1">
-          <mxGeometry x="331" y="-25" width="60" height="60" as="geometry" />
+          <mxGeometry x="281" y="-38" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="M2zra9SQgV3S4SkvVl-d-11" value="schema2" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="676" y="180" width="100" height="40" as="geometry" />
@@ -339,6 +340,9 @@
         </mxCell>
         <mxCell id="heKwmAffLFRj9U7skXlh-7" value="" style="sketch=0;outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.role;strokeColor=#00CC00;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="354" y="293" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="heKwmAffLFRj9U7skXlh-10" value="owner" style="sketch=0;outlineConnect=0;strokeColor=none;fillColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.role;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-38" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
