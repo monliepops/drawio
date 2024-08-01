@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-01T03:04:19.303Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="MRzecus7qmDcG7OArhZJ" version="24.6.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-08-01T03:08:47.908Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="7NfFmHuysuH0p5DKzj-d" version="24.6.4" type="github" pages="6">
   <diagram name="collection" id="N_CIKplRmD34ISpjQVyY">
     <mxGraphModel>
       <root>
@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5FIG6E48aMR_5kqDz4uR" name="RDS LOS">
-    <mxGraphModel dx="1426" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="640" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,7 +61,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CAkqamon0RX8C65m8_k8-1" value="1. 1 instance มี 1database มี 10 schemas&lt;div&gt;2.Blockfint vendor กำลังจัดทำ &lt;span style=&quot;white-space: pre;&quot;&gt;ER diagram&lt;/span&gt;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" parent="1" vertex="1">
-          <mxGeometry x="126" y="383" width="295" height="148" as="geometry" />
+          <mxGeometry x="144" y="466" width="295" height="148" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
