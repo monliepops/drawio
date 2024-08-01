@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-01T03:12:49.561Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="C0dnGhD2qsqgAovjEpRV" version="24.6.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-08-01T03:13:06.334Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="xyglyis0JHrbVn8oc_dA" version="24.6.4" type="github" pages="6">
   <diagram name="collection" id="N_CIKplRmD34ISpjQVyY">
     <mxGraphModel>
       <root>
@@ -67,7 +67,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6AyKOGvewQ0hH869rFZE" name="VM LMS">
-    <mxGraphModel dx="1026" dy="1040" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1368" dy="1253" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -147,7 +147,7 @@
           <mxGeometry x="526.61" y="447" width="169" height="171" as="geometry" />
         </mxCell>
         <mxCell id="-rX_uKBOdOB6NbT8Dn5--26" value="1.postgres,repmgr,nhjlmspgprdinstance&lt;div&gt;ของ database core หลังบ้าน ไม่มี table &amp;nbsp;&lt;/div&gt;&lt;div&gt;2. ทุก DB ใช้ schema public&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;" parent="1" vertex="1">
-          <mxGeometry x="374.6" y="640" width="291.4" height="114" as="geometry" />
+          <mxGeometry x="346" y="620" width="291.4" height="114" as="geometry" />
         </mxCell>
         <mxCell id="oK4FrdR7jd5xmayxnr8h-2" value="zone 3" style="swimlane;startSize=0;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="170" y="364" width="154" height="83" as="geometry" />
