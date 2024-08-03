@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-01T03:14:51.790Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="o1VHg-XVv0B_WlyTzktd" version="24.6.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6" pages="7">
   <diagram name="collection" id="N_CIKplRmD34ISpjQVyY">
     <mxGraphModel>
       <root>
@@ -393,6 +393,53 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8QFi71FFsSW84dKIEg06" name="Page-7">
+    <mxGraphModel dx="1026" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NGd0UcYZHUo2xmFEHksq-3" value="window ( app, db)&lt;div&gt;&amp;nbsp;dev ,IP .x.x.1&lt;/div&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="NGd0UcYZHUo2xmFEHksq-1" value="mssql&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
+          <mxGeometry x="210" y="229.5" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NGd0UcYZHUo2xmFEHksq-4" value="file.batch" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="70" y="220" width="56.00000000000001" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="NGd0UcYZHUo2xmFEHksq-5" value="window ( app)&lt;div&gt;new IP&lt;/div&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" vertex="1" parent="1">
+          <mxGeometry x="420" y="90" width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="NGd0UcYZHUo2xmFEHksq-7" value="file.batch" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
+          <mxGeometry x="497" y="185.5" width="56.00000000000001" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="NGd0UcYZHUo2xmFEHksq-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="210" as="sourcePoint" />
+            <mxPoint x="360" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NGd0UcYZHUo2xmFEHksq-9" value="window ( db)&lt;div&gt;&amp;nbsp;IP x.x.1&lt;/div&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" vertex="1" parent="1">
+          <mxGeometry x="650" y="90" width="210" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="NGd0UcYZHUo2xmFEHksq-10" value="mssql&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
+          <mxGeometry x="736.25" y="195" width="37.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NGd0UcYZHUo2xmFEHksq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NGd0UcYZHUo2xmFEHksq-4" target="NGd0UcYZHUo2xmFEHksq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NGd0UcYZHUo2xmFEHksq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="NGd0UcYZHUo2xmFEHksq-7" target="NGd0UcYZHUo2xmFEHksq-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NGd0UcYZHUo2xmFEHksq-19" value="proc" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/stock_macro-stop-after-procedure.png" vertex="1" parent="1">
+          <mxGeometry x="170" y="185.5" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="NGd0UcYZHUo2xmFEHksq-20" value="proc" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/Open-Office-Icons/stock_macro-stop-after-procedure.png" vertex="1" parent="1">
+          <mxGeometry x="700" y="161.5" width="24" height="24" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
