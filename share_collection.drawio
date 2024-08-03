@@ -401,7 +401,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NGd0UcYZHUo2xmFEHksq-3" value="window ( app, db)&lt;div&gt;&amp;nbsp;dev ,IP .x.x.1&lt;/div&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" vertex="1" parent="1">
+        <mxCell id="NGd0UcYZHUo2xmFEHksq-3" value="window ( app, db)&lt;div&gt;&amp;nbsp;dev ,IP x.x.x.1&lt;/div&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" vertex="1" parent="1">
           <mxGeometry x="50" y="90" width="210" height="260" as="geometry" />
         </mxCell>
         <mxCell id="NGd0UcYZHUo2xmFEHksq-1" value="mssql&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
@@ -416,13 +416,13 @@
         <mxCell id="NGd0UcYZHUo2xmFEHksq-7" value="file.batch" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/File.svg;" vertex="1" parent="1">
           <mxGeometry x="497" y="185.5" width="56.00000000000001" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="NGd0UcYZHUo2xmFEHksq-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="NGd0UcYZHUo2xmFEHksq-8" value="separate" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="210" as="sourcePoint" />
-            <mxPoint x="360" y="210" as="targetPoint" />
+            <mxPoint x="390" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NGd0UcYZHUo2xmFEHksq-9" value="window ( db)&lt;div&gt;&amp;nbsp;IP x.x.1&lt;/div&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" vertex="1" parent="1">
+        <mxCell id="NGd0UcYZHUo2xmFEHksq-9" value="window ( db)&lt;div&gt;&amp;nbsp;IP x.x.x.1&lt;/div&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" vertex="1" parent="1">
           <mxGeometry x="650" y="90" width="210" height="260" as="geometry" />
         </mxCell>
         <mxCell id="NGd0UcYZHUo2xmFEHksq-10" value="mssql&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.sql_database;" vertex="1" parent="1">
